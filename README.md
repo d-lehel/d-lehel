@@ -24,6 +24,8 @@ Here are some of my interesting repositories:
 
 4. [Sudoku Solver](https://github.com/d-lehel/msc-sudoku-solver-genetic-algorithm): An Android Kotlin app that solves Sudoku puzzles using a genetic algorithm. It intelligently finds the solution to the puzzle by applying genetic algorithm techniques.
 
-5. [Traveling Salesman](https://github.com/d-lehel/msc-project-traveling-salesman): This project is a visualization using p5.js that demonstrates the solutions to the Traveling Salesman Problem. It implements algorithms like the nearest neighbor and 2-opt algorithm to optimize the route.
+5. [ShareApp](https://github.com/d-lehel/bsc-exam-android-client): ShareApp is an Android application developed with Kotlin. It provides a platform for users to share their unused food items with others in the community. Users can browse and request available shared foods based on location proximity. Help reduce food waste and foster a sense of community with ShareApp.
+
+6. [Traveling Salesman](https://github.com/d-lehel/msc-project-traveling-salesman): This project is a visualization using p5.js that demonstrates the solutions to the Traveling Salesman Problem. It implements algorithms like the nearest neighbor and 2-opt algorithm to optimize the route.
 
 Feel free to explore these repositories and check out the code. If you have any questions or suggestions, feel free to reach out to me.
